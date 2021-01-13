@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Uflash</string>
+    <string name="switch_on">Switch On</string>
+    <string name="flash_on_text">Flash On</string>
+    <string name="flash_off_text">Flash Off</string>
+</resources>
